@@ -1,6 +1,6 @@
-Hi 👋, My name is danut as faraon . I'm 15 years old .
-A passionate frontend developer from Romanian
-Langue and Tools :
+[h1] Hi 👋, My name is danut as faraon . I'm 15 years old .[h1]
+[h1] A passionate frontend developer from Romanian [h1]
+[h1[ Langue and Tools : [h1]
 ![image](https://user-images.githubusercontent.com/119728870/205432666-328f553f-4610-4067-abd4-e4cda78ef11a.png)
 ![image](https://user-images.githubusercontent.com/119728870/205432672-5b445d28-1f6d-43ac-9370-0eaf6b83c0c4.png)
 ![image](https://user-images.githubusercontent.com/119728870/205432685-e6681b79-c8e0-4b87-a610-3ead9088daa5.png)
@@ -9,4 +9,4 @@ Langue and Tools :
 ![image](https://user-images.githubusercontent.com/119728870/205432753-10c61ef3-fd2b-437c-8b1f-9608e5220745.png)
 
 
-Tools: Visual Studio Code, Visual Studio Code Insiders , Atom , Sublime-text, GiftHub , Chrome .
+[h1] Tools:[h1]
