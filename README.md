@@ -1,4 +1,4 @@
-<h1> Hi 👋, My name is danut as faraon . I'm 17 years old .</h1>
+<h1> Hi 👋, My name is danut as faraon . I'm 18 years old .</h1>
 <h1> A passionate frontend developer from Romanian </h1>
 <h1> Langue and Tools : </h1>
 
